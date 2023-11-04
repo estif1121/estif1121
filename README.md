@@ -11,3 +11,4 @@
     - Configuro proxys para unir servidores de Minecraft
     - Pongo en orden los servidores, primero el auth, despues lobby, despues survival, etc
     - Configuro servidores como Parkour, lobby, auth, surival, etc
+- Desarrollador de Discord
