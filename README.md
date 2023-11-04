@@ -11,4 +11,11 @@
     - Configuro proxys para unir servidores de Minecraft
     - Pongo en orden los servidores, primero el auth, despues lobby, despues survival, etc
     - Configuro servidores como Parkour, lobby, auth, surival, etc
+      
 - Desarrollador de Discord
+   - Configuro servidores de Discord, hago los canales, bots, etc
+    - Configuro permisos y roles
+    - Decoro servidores
+
+ - Contacto:
+     - Dicord: estif1121 (no #)
