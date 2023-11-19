@@ -18,4 +18,4 @@
     - Decoro servidores
 
  - Contacto:
-     - Dicord: estif1121 (no #)
+     - Discord: estif1121 (no #)
