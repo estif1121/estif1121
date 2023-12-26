@@ -9,7 +9,7 @@
 - Desarrollador de Minecraft
     - Configuro servidores de Minecraft, configuro los plugins, optimizo los mundos, etc
     - Configuro proxys para unir servidores de Minecraft
-    - Pongo en orden los servidores, primero el auth, despues lobby, despues survival, etc
+    - Pongo en orden los servidores, primero el auth, despues lobby, despues survival, etc, con el bungeeguard, para evitar hackeos
     - Configuro servidores como Parkour, lobby, auth, surival, etc
       
 - Desarrollador de Discord
